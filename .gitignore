@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -24,7 +24,6 @@ Thumbs.db
 
 # Databases
 *.sqlite3
-=======
 # Кэш и временные файлы
 .cache/
 __pycache__/
@@ -49,4 +48,4 @@ build/
 .DS_Store
 Thumbs.db
 
->>>>>>> b86d2a3 (Initial commit)
+b86d2a3 (Initial commit)
