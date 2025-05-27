@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -23,3 +24,29 @@ Thumbs.db
 
 # Databases
 *.sqlite3
+=======
+# Кэш и временные файлы
+.cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Настройки IDE
+.idea/
+.vscode/
+
+# Сборочные папки и артефакты
+dist/
+build/
+*.egg-info/
+
+# Лог-файлы
+*.log
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+>>>>>>> b86d2a3 (Initial commit)
